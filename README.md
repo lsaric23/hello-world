@@ -35,7 +35,7 @@ Ovdje ćete naći osnovne informacije o projektu, kao i demonstraciju kako GitHu
 Za više informacija o Gitu i GitHubu, posjetite [GitHub Docs](https://docs.github.com/).
 
 ## Pogledajte našu stranicu!
-Projekt je živ i dostupan za pregled na: [lsaric23.github.io/hello-world](lsaric23.github.io/hello-world)
+Projekt je živ i dostupan za pregled na: [lsaric23.github.io/hello-world](https://lsaric23.github.io/hello-world/)
 
 Ova stranica će se ažurirati kako projekt napreduje. Povremeno se vratite kako biste vidjeli najnovije promjene i dodatke.
 ![emoji](https://i.pinimg.com/736x/5e/78/62/5e7862f0699604d93aa50409cc6b16ce.jpg)
